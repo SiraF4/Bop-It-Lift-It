@@ -2,7 +2,7 @@
   <div class="container">
     <main class="main-content">
       <h1 class="title"> Bop It, Lift It </h1>
-      <img alt="enclosure" src="../assets/sketch.png" class="dumbbell-image" >
+      <img alt="enclosure" src="../assets/sketch.png" class="dumbbell-image">
       <button class="play-button" @click="$router.push({name: 'play'})"> Play </button>
     </main>
 
